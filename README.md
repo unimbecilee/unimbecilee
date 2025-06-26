@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I’m Landry Dansou
 
-<!--
-**unimbecilee/unimbecilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **junior fullstack developer**, passionate about web technologies and cloud computing.  
+🌱 I’m currently diving deeper into **Azure** and **GCP**, and building real-world apps to sharpen my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, Java (Swing), PHP
+- DB: PostgreSQL, MySQL
+- Cloud: Azure (AZ-900 in progress), GCP
+- Tools: Git, GitHub, Postman, VS Code, Figma
+
+---
+
+### 🚀 Projects
+- **ESAG GED**: Document & Workflow Management System (React + Flask)
+- **NEXTRA**: IoT-based traffic light controller simulation
+
+---
+
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/landry-dansou)
+
+---
+
+### 🎮 Fun fact
+Besides code, I love logic puzzles, photography, and building things just to break and fix them again 😉
